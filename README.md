@@ -1,3 +1,9 @@
+<div style="text-align:center;">
+<img src="https://github.com/caoxiemeihao/test-angular/blob/master/screenshot/code.png?raw=true" width="600" />
+<br/>
+<img src="https://github.com/caoxiemeihao/test-angular/blob/master/screenshot/console.png?raw=true" width="600" />
+</div>
+
 # TestAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
